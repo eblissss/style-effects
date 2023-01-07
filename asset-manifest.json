@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/style-effects/static/css/main.aef11cf1.css",
+    "main.js": "/style-effects/static/js/main.e00f6642.js",
+    "static/media/img1.jpg": "/style-effects/static/media/img1.4a0d4dd94372828635c0.jpg",
+    "index.html": "/style-effects/index.html",
+    "main.aef11cf1.css.map": "/style-effects/static/css/main.aef11cf1.css.map",
+    "main.e00f6642.js.map": "/style-effects/static/js/main.e00f6642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aef11cf1.css",
+    "static/js/main.e00f6642.js"
+  ]
+}
